@@ -1,3 +1,24 @@
+body {
+  background-color: #282B34;
+  color:#61DAFB;
+}
+
 .container {
-  margin-top:24px;
+  margin-top:12px;
+  margin-bottom:12px;
+}
+
+.title {
+  margin-bottom:12px;
+}
+
+.preview {
+  background-color:#61DAFB;
+  color:#282B34;
+  padding: 24px;
+  border-radius:.25em;
+}
+
+.copyright {
+  margin-top:12px;
 }
